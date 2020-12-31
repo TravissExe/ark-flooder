@@ -1,0 +1,23 @@
+{
+  "name": "ark-transaction-sender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TravissExe/ark-transaction-sender.git"
+  },
+  "dependencies": {
+    "@arkecosystem/client": "^2.0.0",
+    "@arkecosystem/crypto": "^2.7.24"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TravissExe/ark-transaction-sender/issues"
+  },
+  "homepage": "https://github.com/TravissExe/ark-transaction-sender#readme"
+}

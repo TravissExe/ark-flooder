@@ -1,0 +1,6 @@
+{
+    "sender":"SENDER_ADDRESS",
+    "sender_psw":"MAIN_PASS",
+    "sender_psw_2":"SECOND_PASS",
+    "receiver":"RECEIVER_ADDRESS"
+}
